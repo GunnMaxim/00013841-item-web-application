@@ -6,7 +6,7 @@ In order to run this web application locally you must follow the steps indocated
 
 1. Clone this repository
 ```bash
-git clone : https://github.com/GunnMaxim/00013841-items-web-app.git
+git clone : https://github.com/GunnMaxim/00013841-item-web-application.git
 
 
 
@@ -34,7 +34,7 @@ node app
 
 ### WEb application on gitgub
 
-[https://github.com/GunnMaxim/00013841-items-web-app.git]
+https://github.com/GunnMaxim/00013841-item-web-application.git
 
 
 
